@@ -56,11 +56,8 @@
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
   </a>
 </p>
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
 
-<ul>
+<br>
 
 - **Softwares and Tools**:
 
@@ -68,15 +65,10 @@
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+   
 
  
-<br>
-<li>
-<a href="https://www.linkedin.com/in/diego-arias-car/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  diego-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
+ 
 
 
 
